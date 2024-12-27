@@ -1,6 +1,0 @@
-/media/sf_ShareDir/myBackup_qt/build/CMakeFiles/edit_cache.dir
-/media/sf_ShareDir/myBackup_qt/build/CMakeFiles/rebuild_cache.dir
-/media/sf_ShareDir/myBackup_qt/build/CMakeFiles/Backuper.dir
-/media/sf_ShareDir/myBackup_qt/build/CMakeFiles/Backuper_autogen.dir
-/media/sf_ShareDir/myBackup_qt/build/src/CMakeFiles/rebuild_cache.dir
-/media/sf_ShareDir/myBackup_qt/build/src/CMakeFiles/edit_cache.dir
